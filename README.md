@@ -1,6 +1,7 @@
 # Count Down
 
-![preview](![image](https://user-images.githubusercontent.com/87659603/196751502-b6e44429-657c-4291-a560-5d0bfadf27e0.png))
+![image](https://user-images.githubusercontent.com/87659603/196752133-cc8610f9-6943-4ab0-974d-cc728c418218.png)
+
 
 
 
